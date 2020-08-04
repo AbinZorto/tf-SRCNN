@@ -6,7 +6,7 @@ Tensorflow Image Super resolution
 python srcnn.py ./image/butterfly.bmp
 ```
 ## Input low resolution image
-![alt text](https://github.com/AbinZorto/tf-SRCNN/blob/master/b.jpeg)
+![alt text](https://github.com/AbinZorto/tf-SRCNN/blob/master/b.jpeg) PSNR=20.50
 
 ## Output high resolution image
-![alt text](https://github.com/AbinZorto/tf-SRCNN/blob/master/sr.jpeg)
+![alt text](https://github.com/AbinZorto/tf-SRCNN/blob/master/sr.jpeg) PSNR=20.75
