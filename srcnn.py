@@ -1,7 +1,7 @@
 import time
 import os
 import matplotlib.pyplot as plt
-
+import sys
 import numpy as np
 import tensorflow as tf
 import scipy
@@ -131,7 +131,7 @@ for key in biases.keys():
 
 """Read the test image
 """
-blurred_image, groudtruth_image = preprocess('./image/butterfly_GT.bmp')
+blurred_image, groudtruth_image = preprocess(sys.argv[1])
 
 """Run the model and get the SR image
 """
