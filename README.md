@@ -3,7 +3,7 @@ Tensorflow Image Super resolution
 
 ## Run 
 ```console
-python srcnn.py ./image/butterfly.bmp
+python srcnn.py ./image/butterfly_GT.bmp
 ```
 ## Input low resolution image
 ![alt text](https://github.com/AbinZorto/tf-SRCNN/blob/master/b.jpeg) PSNR=20.50
