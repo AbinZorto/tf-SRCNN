@@ -1,4 +1,4 @@
-# tf-SRCNN
+# Super resolution using tesnorflow
 Tensorflow Image Super resolution 
 
 ## Run 
