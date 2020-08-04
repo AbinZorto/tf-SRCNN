@@ -1,4 +1,4 @@
-# Super resolution using tesnorflow
+# Super resolution using tensorflow
 Tensorflow Image Super resolution 
 
 ## Run 
